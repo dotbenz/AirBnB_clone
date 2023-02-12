@@ -1,1 +1,1 @@
-HTML and CSS part of the AirBnB clone
+HTML and CSS part of the AirBnB clone.
